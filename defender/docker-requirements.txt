@@ -3,3 +3,4 @@ flask>=1.1.2
 gevent>=1.4.0
 envparse
 annoy
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
